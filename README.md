@@ -41,12 +41,12 @@ SecureCheck is an educational Android application that helps users check if thei
 
 ---
 
-## 📸 Screenshots
+## 📸 Video For App
 
 <p align="center">
-  <img src="screenshots/main_screen.png" alt="Main Screen" width="250"/>
-  <img src="screenshots/results_screen.png" alt="Results Screen" width="250"/>
-  <img src="screenshots/about_screen.png" alt="About Screen" width="250"/>
+  
+  <img src="screenshots/results_screen.png" alt="Click Here For Video" width="250"/>
+  
 </p>
 
 ---
