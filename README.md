@@ -96,7 +96,7 @@ SecureCheck is an educational Android application that helps users check if thei
 ---
 
 ## 📦 Project Structure
-
+```bash
 app/
 ├── src/
 │   ├── main/
@@ -113,7 +113,7 @@ app/
 │   │   └── AndroidManifest.xml
 │   └── build.gradle.kts
 └── build.gradle.kts
-
+```
 ---
 
 ## 🔌 API Integration
