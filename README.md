@@ -1,10 +1,6 @@
 # 🔒 SecureCheck - Email Leak Checker
 
 <p align="center">
-  <img src="screenshots/logo.png" alt="SecureCheck Logo" width="120"/>
-</p>
-
-<p align="center">
   <strong>An Android application to check if your email has been compromised in data breaches</strong>
 </p>
 
@@ -38,16 +34,6 @@ SecureCheck is an educational Android application that helps users check if thei
 - ✅ Offline-friendly error handling
 - ✅ No data storage (privacy-focused)
 - ✅ About page with team information
-
----
-
-## 📸 Video For App
-
-<p align="center">
-  
-  <img src="screenshots/results_screen.png" alt="Click Here For Video" width="250"/>
-  
-</p>
 
 ---
 
